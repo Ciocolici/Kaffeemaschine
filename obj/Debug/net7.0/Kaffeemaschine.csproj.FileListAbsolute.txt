@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\bin\Debug\net7.0\Kaffeemaschine.exe
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\bin\Debug\net7.0\Kaffeemaschine.deps.json
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\bin\Debug\net7.0\Kaffeemaschine.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\bin\Debug\net7.0\Kaffeemaschine.dll
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\bin\Debug\net7.0\Kaffeemaschine.pdb
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.dll
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\refint\Kaffeemaschine.dll
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.pdb
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\Kaffeemaschine.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Kaffeemaschine\obj\Debug\net7.0\ref\Kaffeemaschine.dll
